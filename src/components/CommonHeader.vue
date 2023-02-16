@@ -33,7 +33,7 @@
         <template #dropdown>
           <el-dropdown-menu>
             <el-dropdown-item>
-              <el-link href="https://github.com/" :underline="false">项目仓库</el-link>
+              <el-link href="https://gitee.com/Aeiou-YuShang/background-manage" :underline="false">项目仓库</el-link>
             </el-dropdown-item>
             <el-dropdown-item @click="handlemyhome">个人中心</el-dropdown-item>
             <el-dropdown-item @click="handleLoginOut">退出</el-dropdown-item>
