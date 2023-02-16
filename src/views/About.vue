@@ -63,8 +63,8 @@
               项目地址
             </div>
           </template>
-          <el-link href="https://github.com/" :underline="false">
-            <el-tag size="small">https://github.com/  </el-tag>
+          <el-link href="https://gitee.com/Aeiou-YuShang/background-manage" :underline="false">
+            <el-tag size="small">https://gitee.com/Aeiou-YuShang/background-manage </el-tag>
           </el-link>
         </el-descriptions-item>
         <el-descriptions-item>
