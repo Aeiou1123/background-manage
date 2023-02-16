@@ -25,7 +25,7 @@
 
 ```
 1、下载项目
-git clone https://gitee.com/Aeiou-YuShang/background-manage.git  or  git clone https://github.com/Aeiou-YuShang/background-manage.git
+git clone https://gitee.com/Aeiou-YuShang/background-manage.git  or  git clone https://github.com/Aeiou1123/background-manage.git
 2、安装依赖
 npm install
 3、项目运行
